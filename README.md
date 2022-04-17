@@ -22,4 +22,6 @@ I replicate the described algorithm on a time series of 10392 periods. On a test
 
 The evaluation metrics confirm this result.
 
-![alt text](https://github.com/AntoinePinto/XGB-for-timeseries/blob/main/images/evaluation.png)
+<p align="center">
+  <img src="https://github.com/AntoinePinto/XGB-for-timeseries/blob/main/images/evaluation.png?raw=true" width="300" alt="image"/>
+</p>
