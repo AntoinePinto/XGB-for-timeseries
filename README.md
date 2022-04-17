@@ -16,8 +16,10 @@ title = {Do We Really Need Deep Learning Models for Time Series Forecasting?}
 
 I replicate the described algorithm on a time series of 10392 periods. On a test sample, I compare the results with classical Prophet and Neural Prophet algorithms, specialized for time series. The results of this algorithm is remarkable compared to Prophet and Neural Prophet.
 
-![alt text](https://github.com/AntoinePinto/XGB-for-timeseries/tree/main/images/visualisation.png)
+
+
+![alt text](https://github.com/AntoinePinto/XGB-for-timeseries/blob/main/images/visualisation.png)
 
 The evaluation metrics confirm this result.
 
-![alt text](https://github.com/AntoinePinto/XGB-for-timeseries/tree/main/images/evaluation.png)
+![alt text](https://github.com/AntoinePinto/XGB-for-timeseries/blob/main/images/evaluation.png)
