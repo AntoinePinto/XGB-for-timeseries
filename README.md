@@ -1,4 +1,4 @@
-# Tutorial : Preprocessing + XGBoost to predict timeseries 
+# Tutorial : Preprocessing + XGBoost to predict time series 
 
 This work is inspired and the algorithm is replicated from the research paper "Do we really need Deep Learning models for time series forecasting" of S.Elsayed et al. 
 
