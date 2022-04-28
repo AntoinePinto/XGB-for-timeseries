@@ -18,10 +18,10 @@ I replicate the described algorithm on a time series of 10392 periods. On a test
 
 
 
-![alt text](https://github.com/AntoinePinto/XGB-for-timeseries/blob/main/images/visualisation.png)
+![alt text](https://github.com/AntoinePinto/XGB-for-timeseries/blob/main/images/visu.png)
 
 The evaluation metrics confirm this result.
 
 <p align="center">
-  <img src="https://github.com/AntoinePinto/XGB-for-timeseries/blob/main/images/evaluation.png?raw=true" width="300" alt="image"/>
+  <img src="https://github.com/AntoinePinto/XGB-for-timeseries/blob/main/images/eval.png?raw=true" width="300" alt="image"/>
 </p>
