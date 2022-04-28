@@ -14,7 +14,7 @@ title = {Do We Really Need Deep Learning Models for Time Series Forecasting?}
 }
 ```
 
-I replicate the described algorithm on a time series of 10392 periods. On a test sample, I compare the results with classical Prophet and Neural Prophet algorithms, specialized for time series. The results of this algorithm is remarkable compared to Prophet and Neural Prophet.
+I replicate the described algorithm on a time series of 10392 periods. On a test sample, I compare the results with classical Prophet algorithm, specialized for time series. The results of this algorithm is better than Prophet.
 
 
 
